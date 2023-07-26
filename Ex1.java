@@ -10,6 +10,7 @@ public class Ex1 {
 		 * Fazer um programa pra ler um número inteiro N e a altura de N pessoas.
 		 * Armazena as N alturas em um vetor. Em seguida, mostrar a altura média das
 		 * pessoas.
+		 * Commit com ajuda do herik
 		 */
 
 		Locale.setDefault(Locale.US);
